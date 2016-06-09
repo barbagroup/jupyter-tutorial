@@ -1,0 +1,14 @@
+# The world of Jupyter
+## An environment to think, code, explore data and communicate science
+
+At the center of the Jupyter world are *notebooks*: documents containing a mix of rich text elements—headings, paragraph text, hyperlinks, mathematical symbols and embedded figures—and interactive code elements. The document uses "cells" to divide up the text and code elements: text is formatted using markdown, and code can be executed using the IPython kernel or others (like Julia or R language).
+
+You can use the notebooks to annotate ideas around code, to explain your thought process, or to report on research process and results. Having interactive code right there in the document empowers you to "think with code," trying things out and exploring data as you go. The notebook has also become a very popular platform for teaching and learning, with a growing community of users publishing lessons, even books, using notebooks.
+
+To work on notebooks, you run the Jupyter Notebook App and edit them from your favorite browser. The app gives you a dashboard on a new browser window that connects to the computational engine (called kernel) behind the scenes. You can install Jupyter locally on your computer, or use it on the cloud on paid or free services. You can also share your finished notebooks online as a static web page, via the free `nbviewer` service.
+
+Everything in Project Jupyter is free and open source. Via the IPython kernel, you can access the whole ecosystem of Python with its libraries for numerical computing, visualization, data analysis, machine learning and more. Jupyter is a world of sharing code and content, and a productive environment to get things done with code and data.
+
+Get started with Jupyter in this tutorial, and then follow some of the many more available online. 
+
+You can try Jupyter right now on this free service: [https://try.jupyter.org](https://try.jupyter.org). Click on the "Welcome to Python" link there: this demo is a temporary notebook with a single code cell that reads some data and draws a plot. Or you can instead click on the "New" button (top right) and choose Python 3 from the options, to get a blank notebook (also temporary). To try a notebook that you can save on the cloud, use the new free service by Azure: [https://notebooks.azure.com](https://notebooks.azure.com). If you want everything installed in your own laptop computer, download the Anaconda distribution (free) from: [https://www.continuum.io/downloads](https://www.continuum.io/downloads)
