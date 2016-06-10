@@ -18,4 +18,10 @@ You can try Jupyter right now on this free service: [https://try.jupyter.org](ht
 For the Jupyter tutorial at Huazhong University of Science and Technology (Wuhan, China), by Prof. Lorena Barba, students can prepare by doing one of these:
 
 1. Create an account with Azure and test the free cloud notebooks at [https://notebooks.azure.com](https://notebooks.azure.com) — you need an account to be able to save notebooks for later. If you only access the free demos, your work will not be saved.
-2. Install Anaconda in your laptop computer. It seems that downloading from the official website could take 6 hours! But fortunately there is a mirror at Tsingua University. See [http://www.tuicool.com/articles/vyyA7rB](http://www.tuicool.com/articles/vyyA7rB)
+2. Install Anaconda in your laptop computer. It seems that downloading from the official website could take 6 hours! But fortunately there is a mirror at Tsinghua University. See [http://www.tuicool.com/articles/vyyA7rB](http://www.tuicool.com/articles/vyyA7rB)
+
+## Contents
+
+(Links to notebooks rendered by **nbviewer**.)
+
+1. [The Notebook](http://nbviewer.jupyter.org/github/barbagroup/jupyter-tutorial/blob/master/1--The%20Notebook.ipynb)
