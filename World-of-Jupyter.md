@@ -26,3 +26,4 @@ If you have 64-bit Windows, the direct download link is [https://mirrors.tuna.ts
 (Links to notebooks rendered by **nbviewer**.)
 
 1. [The Notebook](http://nbviewer.jupyter.org/github/barbagroup/jupyter-tutorial/blob/master/1--The%20Notebook.ipynb)
+2. [The Python world of science and data](http://nbviewer.jupyter.org/github/barbagroup/jupyter-tutorial/blob/master/2--The%20Python%20world%20of%20science%20and%20data.ipynb)
