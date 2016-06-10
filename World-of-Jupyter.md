@@ -12,3 +12,10 @@ Everything in Project Jupyter is free and open source. Via the IPython kernel, y
 Get started with Jupyter in this tutorial, and then follow some of the many more available online. 
 
 You can try Jupyter right now on this free service: [https://try.jupyter.org](https://try.jupyter.org). Click on the "Welcome to Python" link there: this demo is a temporary notebook with a single code cell that reads some data and draws a plot. Or you can instead click on the "New" button (top right) and choose Python 3 from the options, to get a blank notebook (also temporary). To try a notebook that you can save on the cloud, use the new free service by Azure: [https://notebooks.azure.com](https://notebooks.azure.com). If you want everything installed in your own laptop computer, download the Anaconda distribution (free) from: [https://www.continuum.io/downloads](https://www.continuum.io/downloads)
+
+### Jupyter tutorial in Wuhan, June 2016
+
+For the Jupyter tutorial at Huazhong University of Science and Technology (Wuhan, China), by Prof. Lorena Barba, students can prepare by:
+
+1. Create an account with Azure and test the free cloud notebooks at [https://notebooks.azure.com](https://notebooks.azure.com) — you need an account to be able to save notebooks for later. If you only access the free demos, your work will not be saved.
+2. Install Anaconda in your laptop computer. It seems that downloading from the official website could take 6 hours! But fortunately there is a mirror at Tsingua University. See [http://www.tuicool.com/articles/vyyA7rB](http://www.tuicool.com/articles/vyyA7rB)
