@@ -15,11 +15,17 @@ You can try Jupyter right now on this free service: [https://try.jupyter.org](ht
 
 ### Jupyter tutorial in Wuhan, June 2016
 
-For the Jupyter tutorial at Huazhong University of Science and Technology (Wuhan, China), by Prof. Lorena Barba, students can prepare by doing one of these:
+For the Jupyter tutorial at **Huazhong University of Science and Technology** (Wuhan, China), by Prof. Lorena Barba, students should prepare by doing one of these:
 
-1. Create an account with Azure and test the free cloud notebooks at [https://notebooks.azure.com](https://notebooks.azure.com) — you need an account to be able to save notebooks for later. If you only access the free demos, your work will not be saved.
-2. Install Anaconda in your laptop computer. It seems that downloading from the official website could take around 6 hours! Fortunately there is a mirror at Tsinghua University, according to the post in: [http://www.tuicool.com/articles/vyyA7rB](http://www.tuicool.com/articles/vyyA7rB)  
-If you have 64-bit Windows, the direct download link is [https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/Anaconda3-4.0.0-Windows-x86_64.exe](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/Anaconda3-4.0.0-Windows-x86_64.exe) 
+1. Create an account on Microsoft **Azure** and test the free cloud notebooks at [https://notebooks.azure.com](https://notebooks.azure.com) — you need an account to be able to save notebooks for later. If you only access the free demos, your work will not be saved.
+2. Install **Anaconda** in your laptop computer. Downloading from the [official website](https://www.continuum.io/downloads) could take a long time, but there is a mirror at Tsinghua University, according to the post in: [http://www.tuicool.com/articles/vyyA7rB](http://www.tuicool.com/articles/vyyA7rB)  
+We found an error in the URL provided in that post, though. The actual location of the Tsinghua mirror is [https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/)  
+Download the latest version for your operating system (we'll be using Python 3). 
+After installing, from a terminal, run `conda update conda` and then run `conda update jupyter numpy sympy scipy matplotlib`
+3. If your internet is slow or you want to save disk space, you can instead install **Miniconda** from the [official site](http://conda.pydata.org/miniconda.html) or from the [mirror](https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/) in Tsinghua University. Then, you should run three commands from the terminal:  
+`conda update conda`  
+`conda install jupyter`  
+`conda install numpy scipy sympy matplotlib`
 
 ## Contents
 
