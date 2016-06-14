@@ -34,6 +34,7 @@ After installing, from a terminal, run `conda update conda` and then run `conda 
 1. [The Notebook](http://nbviewer.jupyter.org/github/barbagroup/jupyter-tutorial/blob/master/1--The%20Notebook.ipynb)
 2. [The Python world of science and data](http://nbviewer.jupyter.org/github/barbagroup/jupyter-tutorial/blob/master/2--The%20Python%20world%20of%20science%20and%20data.ipynb)
 3. [Jupyter like a pro](http://nbviewer.jupyter.org/github/barbagroup/jupyter-tutorial/blob/master/3--Jupyter%20like%20a%20pro.ipynb)
+(work in progress)
 
 ### Interact with the notebooks on Azure cloud:
 
