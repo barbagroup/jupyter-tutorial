@@ -1,5 +1,7 @@
 # Jupyter Tutorial
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/barbagroup/jupyter-tutorial)
+
 * [**"The world of Jupyter"**](https://github.com/barbagroup/jupyter-tutorial/blob/master/World-of-Jupyter.md)—a tutorial held in Huazhong University of Science and Technology (HUST) in Wuhan, China (June 2016).
 
 ---
